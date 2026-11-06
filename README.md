@@ -22,8 +22,5 @@ A simple and interactive word guessing game built with HTML, CSS, and JavaScript
 - DOM manipulation and dynamic UI updates
 - Conditional logic and validation
 
-## 📸 Screenshot
-> Screenshot coming soon
-
 ## 👤 Author
 **Abdallatif Abdallah** — [GitHub](https://github.com/ABDALLATI)
